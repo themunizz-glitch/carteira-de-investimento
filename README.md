@@ -203,11 +203,11 @@ As taxas utilizadas pelo simulador são definidas por constantes `#define` no ar
 
 **Integrantes do grupo:**
 
-- Nome completo — Vitor Muniz de Aguiar
-- Nome completo — Gustavo Mendonça Scharman
-- Nome completo — Luigi Masashi Matsushita
-- Nome completo — Thiago Maiorino Grillo
-- Nome completo — Felipe Mansour Valvassori  
+- Nome — Vitor Muniz de Aguiar
+- Nome — Gustavo Mendonça Scharman
+- Nome — Luigi Masashi Matsushita
+- Nome — Thiago Maiorino Grillo
+- Nome — Felipe Mansour Valvassori  
 **Disciplina:** Algoritmos e Pensamento Computacional.
 **Disciplina Complementar:** Desing Profissional.
 
